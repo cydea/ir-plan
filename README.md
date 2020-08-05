@@ -2,7 +2,7 @@
 
 Cyber security incidents can be high-pressure situations with serious consequences for both businesses and people alike. That stress can compromise decision making (especially when tired!) and a good cyber incident response plan helps organisations to get their response right.
 
-This project contains a [template cyber IR plan](https://github.com/cydea/ir-plan/blob/master/ir-plan.md) for you tp pick up and tailor to your organisation.
+This project contains a [template cyber IR plan](https://github.com/cydea/ir-plan/blob/master/ir-plan.md) for you to pick up and tailor to your organisation.
 
 
 ## Why?
@@ -20,7 +20,7 @@ It's now available for you to pick up and make your own.
 
 ## Usage
 
-Make a copy of the [IR Plan Template](https://github.com/cydea/ir-plan/blob/master/ir-plan.md) (or a copy of the [Google Docs version](https://docs.google.com/document/d/1TgokdcPm39CuFnYDQ9Hr57mhG4TFwm0Fa2ohxEmJZhg/edit?usp=sharing)) and then spend some time on...
+Make a copy of the [IR Plan Template](https://github.com/cydea/ir-plan/blob/master/ir-plan.md), or a copy of the [Google Docs version](https://docs.google.com/document/d/1TgokdcPm39CuFnYDQ9Hr57mhG4TFwm0Fa2ohxEmJZhg/edit?usp=sharing) and then spend some time on...
 
  - Who your key contacts are, and who deputises for them
  - Tailoring the severity levels and escalation criteria
@@ -28,6 +28,7 @@ Make a copy of the [IR Plan Template](https://github.com/cydea/ir-plan/blob/mast
  
 Then discuss it with your team and senior management, agree this is how you'll operate, and then try running a few exercises to test everyone knows how it works!
 
+There is also a [PDF version of the template](https://github.com/cydea/ir-plan/blob/master/Incident-Response-Plan-(Template).pdf) available.
 
 ## Contributing
 

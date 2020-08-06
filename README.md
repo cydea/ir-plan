@@ -32,7 +32,7 @@ There is also a [PDF version of the template](https://github.com/cydea/ir-plan/b
 
 ## Contributing
 
-We welcome [contributions](https://github.com/cydea/ir-plan/graphs/contributors) and especially want to thank [Exercise3](https://exercise3.co.uk), [@oracuk](https://twitter.com/oracuk), and a few other contributors from leading cyber security firms and government agencies that wish to remain nameless for their work on v1.0 of these resources.
+We welcome [contributions](https://github.com/cydea/ir-plan/graphs/contributors) and especially want to thank [Exercise3](https://exercise3.co.uk), [Phil Huggins](https://twitter.com/oracuk), and a few other contributors from leading cyber security firms and government agencies that wish to remain nameless for their work on v1.0 of these resources.
 
 If you have a suggestion or improvement then please [submit an issue](https://github.com/cydea/ir-plan/issues) or [new pull request](https://github.com/cydea/ir-plan/pulls).
 

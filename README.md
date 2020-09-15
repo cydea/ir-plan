@@ -4,6 +4,8 @@ Cyber security incidents can be high-pressure situations with serious consequenc
 
 This project contains a [template cyber IR plan](https://github.com/cydea/ir-plan/blob/master/ir-plan.md) for you to pick up and tailor to your organisation.
 
+Details of our other open projects can be found at [https://cydea.tools](https://cydea.tools).
+
 
 ## Why?
 
@@ -29,6 +31,7 @@ Make a copy of the [IR Plan Template](https://github.com/cydea/ir-plan/blob/mast
 Then discuss it with your team and senior management, agree this is how you'll operate, and then try running a few exercises to test everyone knows how it works!
 
 There is also a [PDF version of the template](https://github.com/cydea/ir-plan/blob/master/Incident-Response-Plan-(Template).pdf) available.
+
 
 ## Contributing
 

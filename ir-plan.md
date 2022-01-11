@@ -10,7 +10,7 @@ Three principles underpin our Incident Response Plan. They’re called out here,
  - Failed assertions help to rule out what it isn’t just as correct ones let you close in on a cause
  - Look for the simplest answer to the problem
 
-##### Ackowledgements
+##### Acknowledgements
 Based upon the Cydea IR Plan template under the Creative Commons Attribution 4.0 International Public License. More information and updates are available from https://cydea.tools/ir-plan/ 
 
 ## Coordinating our response
